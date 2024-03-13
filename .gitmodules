@@ -1,7 +1,3 @@
-[submodule "FV3"]
-  path = FV3
-  url = https://github.com/NOAA-EMC/fv3atm
-  branch = develop
 [submodule "WW3"]
   path = WW3
   url = https://github.com/NOAA-EMC/WW3
@@ -46,3 +42,7 @@
   path = NOAHMP-interface/noahmp
   url = https://github.com/NOAA-EMC/noahmp
   branch = develop
+[submodule "FV3"]
+	path = FV3
+	url = https://github.com/HenryWinterbottom-NOAA/fv3atm
+	branch = feature/gwdev_issue_2329
